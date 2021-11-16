@@ -1,0 +1,32 @@
+h3{color: cornsilk;
+    padding-bottom: 2rem;
+    } 
+
+.explore{
+   text-align: center;
+   padding-top: 5vh;
+   padding-bottom: 5vh;
+   border-color: black;
+   border-style: inset;
+   border-width: 10px;
+   height: fit-content;
+   margin-top: 0px;
+   background-color: #444444;
+   margin: auto !important;
+}
+
+.menubutton{
+       height: 125px;
+       width: 125px;
+       background-color: cornsilk;
+       border-radius: 20px;
+       padding: 5px;
+       margin: 20px;
+       text-align: center;
+   }
+
+.text{padding: 0;
+font-size: 1.5rem;
+font-weight: bold;
+}
+

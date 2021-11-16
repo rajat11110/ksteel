@@ -1,0 +1,63 @@
+.caption{
+    text-align: center;
+    border-color: black;
+    border-style: inset;
+    border-width: 10px;
+    height: fit-content;
+    margin-top: 0px;
+    background-color: #444444;
+    padding: 0px;
+    
+    
+    }
+    .d-block{
+        height: 50vh;
+    }
+
+@media screen and (min-width:1000px){
+    .caption{
+        text-align: center;
+        border-color: black;
+        border-style: inset;
+        border-width: 10px;
+        height: 70vh;
+        margin-top: 0px;
+        background-color: #444444;
+        padding: 0px;
+        
+        }
+    .d-block{
+    height: 70vh;
+}
+    
+}
+
+.row1{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+
+.tag{
+    color: cornsilk;
+    font-family: 'Dancing Script', cursive;
+    margin: auto;
+    margin-top: 5rem;
+   
+    
+}
+.tag1{
+    color: cornsilk;
+    font-family: 'Dancing Script', cursive;
+    margin: auto;
+    margin-top: 1rem;}
+
+.tag2{
+    color: cornsilk;
+    font-family: sans-serif;
+    margin: 10%;
+    font-size: 1.25rem;
+    margin-top: 1rem;
+text-align: justify;
+text-align-last: center;
+}
